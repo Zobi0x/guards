@@ -1,0 +1,14 @@
+C:\Users\Marco\OneDrive\Área de Trabalho\Recap\M5 = Heranca\Abstract\Abstract\bin\Debug\net9.0\Abstract.exe
+C:\Users\Marco\OneDrive\Área de Trabalho\Recap\M5 = Heranca\Abstract\Abstract\bin\Debug\net9.0\Abstract.deps.json
+C:\Users\Marco\OneDrive\Área de Trabalho\Recap\M5 = Heranca\Abstract\Abstract\bin\Debug\net9.0\Abstract.runtimeconfig.json
+C:\Users\Marco\OneDrive\Área de Trabalho\Recap\M5 = Heranca\Abstract\Abstract\bin\Debug\net9.0\Abstract.dll
+C:\Users\Marco\OneDrive\Área de Trabalho\Recap\M5 = Heranca\Abstract\Abstract\bin\Debug\net9.0\Abstract.pdb
+C:\Users\Marco\OneDrive\Área de Trabalho\Recap\M5 = Heranca\Abstract\Abstract\obj\Debug\net9.0\Abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\OneDrive\Área de Trabalho\Recap\M5 = Heranca\Abstract\Abstract\obj\Debug\net9.0\Abstract.AssemblyInfoInputs.cache
+C:\Users\Marco\OneDrive\Área de Trabalho\Recap\M5 = Heranca\Abstract\Abstract\obj\Debug\net9.0\Abstract.AssemblyInfo.cs
+C:\Users\Marco\OneDrive\Área de Trabalho\Recap\M5 = Heranca\Abstract\Abstract\obj\Debug\net9.0\Abstract.csproj.CoreCompileInputs.cache
+C:\Users\Marco\OneDrive\Área de Trabalho\Recap\M5 = Heranca\Abstract\Abstract\obj\Debug\net9.0\Abstract.dll
+C:\Users\Marco\OneDrive\Área de Trabalho\Recap\M5 = Heranca\Abstract\Abstract\obj\Debug\net9.0\refint\Abstract.dll
+C:\Users\Marco\OneDrive\Área de Trabalho\Recap\M5 = Heranca\Abstract\Abstract\obj\Debug\net9.0\Abstract.pdb
+C:\Users\Marco\OneDrive\Área de Trabalho\Recap\M5 = Heranca\Abstract\Abstract\obj\Debug\net9.0\Abstract.genruntimeconfig.cache
+C:\Users\Marco\OneDrive\Área de Trabalho\Recap\M5 = Heranca\Abstract\Abstract\obj\Debug\net9.0\ref\Abstract.dll
